@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile Controllers</string>
+    <string name="accessibility_service_description">Allows remote mouse control from connected PC. This service can perform gestures and display an overlay cursor on your behalf.</string>
+</resources>
